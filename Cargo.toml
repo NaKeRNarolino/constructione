@@ -1,0 +1,7 @@
+[package]
+name = "constructione"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+violin_rs = { path = "../violin_rs", version = "*" }
